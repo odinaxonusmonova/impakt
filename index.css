@@ -1,0 +1,232 @@
+.header {
+  background-image: linear-gradient(#6A11CB,#2970FA);
+}
+.header.container h6{
+    padding-left: 200px; 
+}
+.header .container button{
+  border-radius: 15px;
+  background-color: #F9D423;
+}
+
+.menu .container a{
+  color: black;
+  text-decoration: none;
+}
+.matn .container i{
+   color: #F83600;
+}
+.matn .container h1{
+  font-size: 50px;
+  color: #2B3543;
+}
+.matn .container h6{
+  color: #6373EE;
+  padding-top: 20px;
+}
+.matn .container p{
+  color: #516078;
+  padding-top: 20px;
+}
+#z{
+  background-image: linear-gradient(#FF0844,#FF8766);
+  color: white;
+  border: none
+}
+#z:hover{
+  background-image: linear-gradient(#FF8766,#FF0844);
+}
+#z1{
+  border: 1px solid #FE1E56;
+  color:#FE1E56
+
+}
+#z1:hover{
+  border: none;
+  background-image: linear-gradient(#FF0844,#FF8766);
+  color: white;
+}
+.a{
+  padding-top: 10px;
+}
+.matn .container img{
+  padding-top: 50px;
+}
+.b{
+  background-color: #FF0844;
+}
+.car:hover{
+  color: white;
+}
+.card{
+  align-items: center;
+  border-radius: 15px;
+}
+.card i{
+  color: #F83600;
+}
+.t button{
+  background-image: linear-gradient(#FF0844,#FF8766);
+  border: none;
+  color: white;
+}
+.t button:hover{
+  background-image: linear-gradient(#FF8766,#FF0844);
+}
+.get .car i{
+  color: white;
+  background-image: linear-gradient(#6A11CB,#2970FA);
+  padding: 25px;
+  border-radius: 10px;
+  margin-top: 25px;
+  font-size: 25px;
+}
+.get i:hover{
+  color:#611ED1 ;
+}
+.get .card:hover{
+  background-image: linear-gradient(#6A11CB,#2970FA);
+}
+ .get .card:hover{
+  color: white;
+}
+.car{
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.l{
+  background-image: linear-gradient(#E0D8FD, white);
+}
+.learn .containe  h1 {
+   color: #2B3543;
+   padding-top: 80px;
+   padding-right: 200px;
+   font-size: 50px;
+}
+.learn .containe  p {
+   color: #485870;
+   padding-right: 200px;
+}
+.learn button{
+  background-image: linear-gradient(#FF0844,#FF8766);
+  border: none;
+  color: white;
+}
+.learn button:hover{
+  background-image: linear-gradient(#FF8766,#FF0844);
+}
+.work .container{
+  background-image: linear-gradient(#6A11CB,#2970FA);
+  height: 80vh;
+  border-radius: 20px;
+  margin: 30px auto;
+}
+.work .container i{
+  color: #FF0844;
+  font-size: 20px;
+  font-weight: bold;
+}
+#work-blok{
+  margin-top: 60px;
+  padding: 30px;
+}
+#work-blok img{
+   border-radius: 50%;
+}
+#work-blok .card{
+  padding: 80px;
+}
+#work-blok p{
+  font-size: 15px;
+  padding: 10px;
+}
+.popul .container{
+  margin-top: 150px;
+}
+.popul .container p{
+  color:  #516078;
+  padding-bottom: 10px;
+}
+.popul .container h1{
+  color: #212529;
+  padding-bottom: 10px;
+}
+.button-group{
+  display: flex;
+  justify-content: center;
+}
+.y:hover{
+  background-color: black;
+  
+}
+.m{
+  background-color: #E9F1FE;
+}
+.h{
+  color: #6373EE;
+  height: 20px;
+}
+.col-lg-12 h6{
+  background-color: #E9F1FE;
+}
+.t{
+  margin-top: 40px;
+  text-align: center;
+}
+.cad img{
+  margin-left: 22px;
+  margin-top: 20px;
+}
+.unlimited{
+  margin-top: 100px;
+  /* height: 40vh; */
+}
+.unlimited{
+  /* height: 350px; */
+  margin-top: 100px 0;
+  background-image: linear-gradient(#8226AC,#5C65C5);
+}
+.unlimited h3{
+  margin-top: 100px;
+  margin-left: 120px;
+  padding-right: 200px;
+}
+.unlimited button{
+  margin-top: 20px;
+  margin-left: 120px;
+}
+.unlimited img{
+}
+.edison{
+  margin-top: -150px;
+  background-image: linear-gradient(#F0E8FA,#EAF0FE);
+}
+.edison .container{
+  padding-top: 70px;
+}
+.edison a{
+  text-decoration: none;
+  color: #2B3543;
+}
+.edison h6{
+  color: #585870;
+}
+.edison h6:hover{
+  color: #475BEC;
+}
+.edison i:hover{
+  color: #475BEC; 
+}
+.edison .r:hover{
+  color: #475BEC; 
+}
+.edison .ik:hover{
+  color: #475BEC;
+}
+
+/*Nev */
+.get .card:hover i{
+background-color: white;
+background-image:none;
+color: #611ED1;
+}
